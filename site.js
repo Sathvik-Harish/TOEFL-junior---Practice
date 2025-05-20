@@ -7,7 +7,6 @@ import { Button } from "@/components/ui/button";
 const questionSets = [
     // QUESTION SETS BEGIN
     // Existing 4 sets...
-    // New challenging sets start here:
     {
         questions: [
             {
